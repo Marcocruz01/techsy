@@ -38,7 +38,7 @@ export function Navbar({ cart, menuRef, showMenu, dispatch, darkMode, open
                 {/* links */}
                 <div className="hidden lg:flex items-center gap-5">
                     <a href="/" className="text-sm text-gray-500 hover:text-gray-800 dark:text-neutral-400 dark:hover:text-neutral-50">Home</a>
-                    <a href="/" className="text-sm font-bold text-gray-950 dark:text-gray-50">Products</a>
+                    <a href="/" className="text-sm font-bold text-gray-950 dark:text-gray-50">Store</a>
                     <a href="/" className="text-sm text-gray-500 hover:text-gray-800 dark:text-neutral-400 dark:hover:text-neutral-50">Offers</a>
                     <a href="/" className="text-sm text-gray-500 hover:text-gray-800 dark:text-neutral-400 dark:hover:text-neutral-50">Contact Us</a>
                 </div>

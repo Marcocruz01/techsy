@@ -53,7 +53,7 @@ export function FilterBar({ setFilter } : FilterarProps) {
                     placeholder="Search for products..."
                     value={search}          
                     onChange={handleSearch} // Llama al manejador de búsqueda
-                    className="block w-full pl-10 bg-gray-50 pr-3 py-2 border border-gray-300 rounded-lg text-base text-gray-900 placeholder:text-gray-400
+                    className="block w-full pl-10 bg-white pr-3 py-2 border border-gray-300 rounded-lg text-base text-gray-900 placeholder:text-gray-400
                     focus-visible:ring-2 focus-visible:ring-gray-800 focus-visible:border-gray-800 focus-visible:outline-none dark:bg-gray-900 dark:border-gray-800 dark:placeholder:text-gray-500 dark:text-gray-300"
                 />
             </div>
