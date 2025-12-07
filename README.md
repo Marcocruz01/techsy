@@ -33,5 +33,5 @@ las tecnologias modernas de hoy en dia para una mejor navegacion y respuesta, co
 
 
 ## Vista General
-![vista previa](./main-app.png)
-![vista previa](./tracker-app.png)
+![vista previa](./main-store.png)
+![vista previa](./cart-store.png)
