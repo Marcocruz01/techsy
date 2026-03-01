@@ -5,7 +5,7 @@ las tecnologias modernas de hoy en dia para una mejor navegacion y respuesta, co
 
 🔗 Demo en línea: [https://techsy-mc.netlify.app/](https://techsy-mc.netlify.app/)
 
-🔗 Repositorio: [https://github.com/Marcocruz01/trackify](https://github.com/Marcocruz01/techsy)
+🔗 Repositorio: [https://github.com/Marcocruz01/techsy](https://github.com/Marcocruz01/techsy)
 
 ## Características
 
