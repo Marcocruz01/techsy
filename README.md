@@ -3,7 +3,7 @@
 Techsy es un demo de una tienda online web moderna que ofrece podructos de la marca Apple con fin de entretenimiento,
 las tecnologias modernas de hoy en dia para una mejor navegacion y respuesta, con CONTEXTAPI y TypeScript.
 
-🔗 Demo en línea: [https://trackify-mc.netlify.app/](https://techsy-mc.netlify.app/)
+🔗 Demo en línea: [https://techsy-mc.netlify.app/](https://techsy-mc.netlify.app/)
 
 🔗 Repositorio: [https://github.com/Marcocruz01/trackify](https://github.com/Marcocruz01/techsy)
 
