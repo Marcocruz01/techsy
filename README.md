@@ -1,7 +1,7 @@
 # ![logo](./public/img/logotipo-techsy.webp) Techsy - Tu tienda en linea
 
-Techsy es un demo de una tienda online web moderna que ofrece podructos de la marca Apple con fin de entretenimiento,
-las tecnologias modernas de hoy en dia para una mejor navegacion y respuesta, con CONTEXTAPI y TypeScript.
+Este proyecto es una web personal/portfolio centrada en el mundo Apple. Su objetivo es presentar 
+el funcionamiento de una tienda online con contenido tecnológico de manera visual y atractiva, con un diseño limpio e intuitivo.
 
 🔗 Demo en línea: [https://techsy-mc.netlify.app/](https://techsy-mc.netlify.app/)
 
